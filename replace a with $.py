@@ -1,0 +1,5 @@
+krishna=input("Enter a string:- ")
+krishna=krishna.replace('a','$')
+krishna=krishna.replace('A','$')
+print("Modified string")
+print(krishna)
